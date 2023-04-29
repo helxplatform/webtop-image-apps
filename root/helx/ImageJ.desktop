@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=ImageJ Image Viewer
+StartupNotify=true
+Exec=/usr/local/bin/imagej.sh
+Icon=/app/ImageJ/images/icon.png
+Terminal=false
+Type=Application
