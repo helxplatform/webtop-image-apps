@@ -1,0 +1,3 @@
+#!/bin/bash
+
+bash -c 'eval "$("/app/Napari/_conda.exe" shell.bash activate "/app/Napari/envs/napari-0.4.17")" && /app/Napari/envs/napari-0.4.17/bin/python -m napari'

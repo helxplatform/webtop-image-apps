@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Napari
+Exec=/usr/local/bin/napari
+Terminal=false
+Icon=/app/Napari/envs/napari-0.4.17/Menu/napari.png
+Comment=a fast n-dimensional image viewer in Python
+Categories=Graphics;Science;

@@ -30,3 +30,9 @@ To build the image you can use the basic docker command or use the included Make
 
 ## Container Environment Variables
 To set the UID, GID, and username that is switched to for the Web UI the PUID, PGID and USER environment variables can be used.
+
+## Links
+https://imagej.nih.gov/ij/index.html
+https://github.com/imagej/ImageJ
+https://napari.org
+https://github.com/napari/napari
